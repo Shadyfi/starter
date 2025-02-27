@@ -10,7 +10,7 @@ Click on `Use this template` to copy the Shadyfi starter kit. The starter kit co
 
 ### Development
 
-Install the [Shadyfi CLI](https://www.npmjs.com/package/shadyfi) to preview the documentation changes locally. To install, use the following command
+
 
 ```
 npm i -g shadyfi
